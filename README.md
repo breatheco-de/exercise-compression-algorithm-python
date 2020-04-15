@@ -22,9 +22,14 @@ For example:
 
 ## Running the project
 
+Download/clone the project and type the folloding in the command line:
+
 ```bash
 python3 app.py
+```
 
+You should get a response similar to this:
+```bash
 ✅No data lost.
 document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0003972053527832031 seconds 
 ```
