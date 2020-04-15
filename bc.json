@@ -2,7 +2,7 @@
 	"slug" : "compression-algorithm-python",
 	"title" : "Compression Algorithm w/Python",
 	"description": "Building a Compression Algorithm using Python and Emojis",
-	"preview": "https://github.com/breatheco-de/exercise-compression-algorithm-python/blob/master/preview.gif?raw=true",
+	"preview": "https://raw.githubusercontent.com/breatheco-de/exercise-compression-algorithm-python/master/preview.png",
 	"solution": "https://github.com/breatheco-de/exercise-compression-algorithm-python/tree/solution",
 	"status": "published",
 	"duration" : 4,
