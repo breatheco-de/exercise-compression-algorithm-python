@@ -6,6 +6,7 @@ symbols = {
     "implementation": "🤯",
     "practicality": '🤩',
     "better": '😅',
+    "than": '😘',
     "Although": "🥺"
 }
 
