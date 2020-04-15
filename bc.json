@@ -5,8 +5,8 @@
 	"preview": "https://github.com/breatheco-de/exercise-compression-algorithm-python/blob/master/preview.gif?raw=true",
 	"solution": "https://github.com/breatheco-de/exercise-compression-algorithm-python/tree/solution",
 	"status": "published",
-	"duration" : 8,
-	"difficulty": "easy",
+	"duration" : 4,
+	"difficulty": "beginner",
 	"technologies": ["python", "terminal", "command line", "compression", "arrays"],
 	"talents": [
 		{ "badge": "identator", "points": 10 }
