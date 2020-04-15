@@ -1,5 +1,9 @@
 # Compression Algorithm
 
+<p align="center">
+    <img src="https://github.com/breatheco-de/exercise-compression-algorithm/blob/master/preview.png?raw=true" />
+</p>
+
 Lets create a compression algorithm 🤯
 It sounds hard but it's something achievable for almost anyone.
 
