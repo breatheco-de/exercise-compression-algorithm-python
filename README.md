@@ -1,7 +1,7 @@
 # Compression Algorithm
 
 <p align="center">
-    <img height="300" src="https://github.com/breatheco-de/exercise-compression-algorithm/blob/master/preview.png?raw=true" />
+    <img height="300" src="https://github.com/breatheco-de/exercise-compression-algorithm-python/blob/master/preview.png?raw=true" />
 </p>
 
 Lets create a compression algorithm 🤯
