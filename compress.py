@@ -12,12 +12,9 @@ symbols = {
 
 def compress(content):
 
-    words = re.split('(\W)', content)
-    new_words = []
-    for w in words:
-        try:
-            new_words.append(symbols[w])
-        except KeyError:
-            new_words.append(w)
-    return ''.join(new_words)
+    compressed_content = ''
+
+    # your code inside this "compress" function
+
+    return content
     
