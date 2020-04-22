@@ -11,7 +11,7 @@ It sounds hard but it's something achievable for almost anyone.
 
 Create an algorithm that given a string, replaces its words matching the **`symbols` dictionary keys** and replaces them with their respective values on the same dictionary.
 
-```
+```python
 symbols = {
     "implementation": "🤯",
     "practicality": '🤩',
@@ -22,7 +22,9 @@ symbols = {
 
 For example:
 
-`Although, this is a great implementation of time` should become `🥺, this is a great 🤯 of time`
+| -------- | ------ | -------- |
+| `Although, this is a great implementation of time` | → should become → | `🥺, this is a great 🤯 of time` |
+| -------- | ------ | -------- |
 
 ## Running the project
 
