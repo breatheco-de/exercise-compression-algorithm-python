@@ -22,7 +22,6 @@ symbols = {
 
 For example:
 
-| -------- | ------ | -------- |
 | `Although, this is a great implementation of time` | → should become → | `🥺, this is a great 🤯 of time` |
 | -------- | ------ | -------- |
 
