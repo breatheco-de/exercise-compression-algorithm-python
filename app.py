@@ -4,6 +4,7 @@ from compress import compress
 from decompress import decompress
 
 
+
 f = open("data/document.txt","r") # open the original document
 content = ''.join(list(f)) # add every line to the "content" variable
 f.close() #close the file after finishing reading it.
@@ -22,7 +23,7 @@ f.close()
 if(_decompressed == content):
     print("✅No data lost.")
 else:
-    print(f"❌Some data was lost", _decompressed, content)
+    print(f"❌Some data was lost")
 
 initial = Path('data/document.txt').stat().st_size
 last = Path('data/compressed.txt').stat().st_size

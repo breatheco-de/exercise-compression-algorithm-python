@@ -1,20 +1,21 @@
-# !/usr/bin/python
+ # !/usr/bin/python
 # coding=utf-8
 import re
 
 symbols = {
-    "implementation": "🤯",
-    "practicality": '🤩',
-    "better": '😅',
-    "than": '😘',
-    "Although": "🥺"
+#   key             :   symbols[key]
+    "implementation":   "🤯",
+    "practicality"  :   '🤩',
+    "is better than":   '😅',
+    "than"          :   '😘',
+    "Although"      :   "🥺",
 }
 
 def compress(content):
-
-    compressed_content = ''
-
-    # your code inside this "compress" function
-
-    return content
     
+    _content = content 
+    for key in symbols:
+        aux = _content.replace(key, symbols[key])
+        _content = aux
+
+    return _content
