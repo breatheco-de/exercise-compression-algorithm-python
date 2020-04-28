@@ -19,3 +19,14 @@ def compress(content):
         _content = aux
 
     return _content
+
+# SOlution 2
+# def compress(content):
+#     words = re.split('(\W)', content)
+#     new_words = []
+#     for w in words:
+#         if w in symbols:
+#             new_words.append(symbols[w])
+#         else:
+#             new_words.append(w)
+#     return ''.join(new_words)
