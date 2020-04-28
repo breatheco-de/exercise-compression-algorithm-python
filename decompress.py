@@ -5,10 +5,7 @@ from compress import symbols
 
 def decompress(compressed_content):
 
-    _content = compressed_content 
-    for key in symbols:
-        aux = _content.replace(symbols[key], key)
-        _content = aux
+    decompressed_content = '' 
 
-    return _content
+    return compressed_content
     
