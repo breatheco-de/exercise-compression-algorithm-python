@@ -46,8 +46,9 @@ The current project has 3 main files:
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-1. a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-compression-algorithm-python.git
-b) You can clone this repository on your local computer:
+1.
++ Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-compression-algorithm-python.git
++ You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-compression-algorithm-python.git
 ````
