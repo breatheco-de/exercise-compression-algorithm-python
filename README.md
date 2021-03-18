@@ -53,7 +53,7 @@ This project comes with the necessary files to start working, but you have two o
 $ git clone https://github.com/breatheco-de/exercise-compression-algorithm-python.git
 ````
 
-2.Type the folloding in the command line:
+2.Type the following in the command line:
 
 ```bash
 python3 app.py
