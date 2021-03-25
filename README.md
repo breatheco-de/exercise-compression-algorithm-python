@@ -42,12 +42,14 @@ The current project has 3 main files:
 4. Test your compression algorithm by running the app.py again.
 5. Edit the decompress.py to create the **decompression** algorithm.
 6. Test your decompression algorithm by running the app.py again.
+7. 
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-+ Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-compression-algorithm-python.git
-+ You can clone this repository on your local computer:
+a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-compression-algorithm-python.git
+
+b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-compression-algorithm-python.git
 ````
@@ -62,7 +64,10 @@ You should get a response similar to this:
 ```bash
 ✅No data lost.
 document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0003972053527832031 seconds 
-```
+````
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 
 ## 🎯 Metrics
 
