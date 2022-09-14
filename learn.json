@@ -10,5 +10,7 @@
 	"technologies": ["python", "terminal", "command line", "compression", "arrays"],
 	"talents": [
 		{ "badge": "identator", "points": 10 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
