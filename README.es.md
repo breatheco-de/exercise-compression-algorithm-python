@@ -1,15 +1,18 @@
-# Compression Algorithm
+<!--hide-->
+# Algoritmo de compresión
+<!--endhide-->
 
 <p align="center">
     <img height="300" src="https://raw.githubusercontent.com/breatheco-de/exercise-compression-algorithm-python/master/preview.png" />
 </p>
 
-Creemos un algoritmo de compresion ❔
-Parece difícil pero es algo que puede hacer casi cualquiera persona.
+¿Creemos un algoritmo de compresión?
+
+Parece difícil, pero es algo que puede hacer casi cualquiera persona.
 
 ## 📝 Instrucciones
 
-Crea un algoritmo que dado un string, reemplace las palabras que iguales a las keys del **diccionario de `símbolos` o `symbols` dictionary keys** y las reemplaza con sus valores respectivos en el mismo diccionario.
+Crea un algoritmo que, dado un string, reemplace las palabras que iguales a las keys del **diccionario de `símbolos` o `symbols` dictionary keys** y las reemplaza con sus valores respectivos en el mismo diccionario.
 
 ```python
 symbols = {
@@ -30,7 +33,7 @@ El actual proyecto tiene 3 archivos:
 | Name | Description |
 | -------- | ------ |
 | compress.py | Contiene el algoritmo para comprimir el contenido, tiene una función "comprimir" que recibe el texto en bruto y devuelve la versión comprimida del mismo|
-| decompress.py | Es muy similar a `compress.py` pero contiene el algoritmo para volver a convertir el contenido de su versión comprimida al contenido original|
+| decompress.py | Es muy similar a `compress.py`, pero contiene el algoritmo para volver a convertir el contenido de su versión comprimida al contenido original|
 | app.py | Este es un archivo de entrada y no es necesario actualizarlo, importa y usa los otros dos archivos|
 
 
@@ -61,7 +64,7 @@ Deberías obtener una respuesta similar a esta:
 ```bash
 ✅No data lost.
 document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0003972053527832031 seconds 
-````
+```
 
 ## 🎯 Métricas
 
@@ -70,6 +73,6 @@ document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0
 
 ## 🍩🍬🍭 ¿Te sientes seguro?
 
-Añadiendo más palabras al dicionario  de `símbolos, puede conseguir más potencia de compresión.
+Añadiendo más palabras al diccionario de `símbolos, puede conseguir más potencia de compresión.
 
 Intenta volver a hacer el algoritmo para lograr una potencia de compresión superior al 15% sin pérdida de datos sin agregar más palabras.
